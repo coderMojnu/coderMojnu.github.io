@@ -4,9 +4,9 @@ body {
 	width: 95%;
 	font-size: 1.2em;
 }
-header {
+h1, .headline {
   margin-top: 5px;
-  background-color: #00b7ea;
+  background: #00b7ea;
   text-align: center;
   padding: 15px;
 }
