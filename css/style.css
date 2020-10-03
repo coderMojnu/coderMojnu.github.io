@@ -2,7 +2,15 @@ body {
 	margin: 0 auto;
 	display: block;
 	width: 95%;
-	font-size: 1.3em;
+	font-size: 1.2em;
+}
+header {
+  header {
+  margin-top: 5px;
+  background-color: #00b7ea;
+  text-align: center;
+  padding: 15px;
+}
 }
 img {
 	height: 400px;
