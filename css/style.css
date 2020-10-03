@@ -4,10 +4,9 @@ body {
 	width: 95%;
 	font-size: 1.2em;
 }
-h1, .headline {
+header {
   margin-top: 5px;
   background: #00b7ea;
-  text-align: center;
   padding: 15px;
 }
 img {
